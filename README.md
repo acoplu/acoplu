@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 You can reach me on Twitter **@abdullahcopluu**
+- 📫 You can reach me on Twitter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
