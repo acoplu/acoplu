@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm acoplu</h1>
+<h1 align="center">Hi 👋, I'm abdullah</h1>
 
 - 👨‍💻	I'm a computer engineering student
 
