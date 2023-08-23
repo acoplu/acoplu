@@ -2,8 +2,6 @@
 
 - 👨‍💻	I'm a computer engineering student
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 You can reach me on Twitter
 
 <h3 align="left">Connect with me:</h3>
